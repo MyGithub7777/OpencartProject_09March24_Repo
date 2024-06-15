@@ -1,0 +1,12 @@
+2024-06-15 19:51:31,010 [main] INFO Opencart Framework - framework execution started
+2024-06-15 19:51:40,129 [main] INFO Opencart Framework - browser launched and url
+2024-06-15 19:51:40,894 [main] INFO Opencart Framework - naviagted to login page
+2024-06-15 19:51:41,752 [main] INFO Opencart Framework - logged i
+2024-06-15 19:51:41,821 [main] INFO Opencart Framework - Actual Result is :- Warning: No match for E-Mail Address and/or Password.
+2024-06-15 19:51:42,402 [main] INFO Opencart Framework - browser closed
+2024-06-15 19:51:47,232 [main] INFO Opencart Framework - browser launched and url
+2024-06-15 19:51:47,812 [main] INFO Opencart Framework - naviagted to login page
+2024-06-15 19:51:48,644 [main] INFO Opencart Framework - logged in
+2024-06-15 19:51:48,667 [main] INFO Opencart Framework - Actual Result is :- Account Login
+2024-06-15 19:51:49,426 [main] INFO Opencart Framework - browser closed
+2024-06-15 19:51:49,432 [main] INFO Opencart Framework - framework execution ended
